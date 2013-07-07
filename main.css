@@ -6,11 +6,7 @@ body {
   font-family: 'Gubblebum Blocky';
   background-color: ;
   background: rgb(99, 181, 256) url('mountains.png') fixed repeat-x bottom;
-}
-
-#banner {
-  height: 5px;
-  background-color: rgb(0, 39, 140);  
+  border-top: 6px solid rgb(0, 39, 140);  
 }
 
 #notice {
