@@ -4,7 +4,8 @@ body {
   padding: 0px 0px 0px 0px;
   margin: 0px 0px 0px 0px;
   font-family: 'Gubblebum Blocky';
-  background-color: rgb(99, 181, 256);
+  background-color: ;
+  background: rgb(99, 181, 256) url('mountains.png') fixed repeat-x bottom;
 }
 
 #banner {
@@ -24,12 +25,4 @@ h2.title {
 p.subtitle {
   font-size: 30px;
   margin-top: -90px;
-}
-
-.mountain-range {
-  width: 100%;
-  background: url('mountains.png');
-  position: absolute;
-  bottom: 0px;
-  height: 342px;
 }
