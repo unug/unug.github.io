@@ -1,7 +1,10 @@
 @font-face {font-family: 'Gubblebum Blocky'; src: url('./gubblebum-blocky.ttf');}
 
 body {
-  padding: 0px 0px 0px 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 5px;
+  padding-right: 5px;
   margin: 0px 0px 0px 0px;
   font-family: 'Gubblebum Blocky';
   background-color: ;
