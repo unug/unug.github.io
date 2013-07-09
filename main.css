@@ -25,3 +25,18 @@ p.subtitle {
   font-size: 30px;
   margin-top: -90px;
 }
+
+footer .links-of-interest {
+  text-align: center;
+  font-family: 'Helvetica', 'Arial';
+  color: rgb(0, 39, 140);
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: rgb(123, 226, 214);
+}
